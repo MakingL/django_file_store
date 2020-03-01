@@ -11,11 +11,6 @@ Django 文件的上传、删除、下载，以及文件列表的查询功能
 - Python 3
 - nginx （部署用，也可直接采用 runserver 运行服务）
 - python 包: requirement.txt 文件 (安装: `pip install -r requirement.txt`)
-
-## 默认的管理员用户
-
-- root
-- @hjx1234567*
  
 ## 部署
 
