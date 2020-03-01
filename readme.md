@@ -49,4 +49,4 @@ Django 文件的上传、删除、下载，以及文件列表的查询功能
     - 响应: 文件数据流
         - 失败: `{"code": "401", "msg": "file doesn't exist"}` 
         - 成功: `{"code": "200", "msg": "OK"}`
-
+8. 查看运行日志 （当前目录下）: `docker-compose logs`
